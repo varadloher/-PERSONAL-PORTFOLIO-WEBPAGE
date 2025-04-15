@@ -20,4 +20,6 @@ The projects section is the most important part, where completed works are showc
 
 Accessibility and performance are also considered while designing a portfolio. Ensuring good contrast, alt text for images, and readable fonts makes the website accessible. Additionally, lightweight design, optimized images, and minimal use of JavaScript ensure faster loading times. The website should be hosted on platforms like GitHub Pages or Netlify for easy access and sharing. Good folder structure and clean, well-commented code ensure maintainability and readability of the project. In conclusion, building a responsive single-page portfolio using only HTML and CSS is a practical project for developers to enhance their frontend skills while creating a useful tool to showcase their talents and achievements professionally.
 
-#
+#output
+
+![Image](https://github.com/user-attachments/assets/7e9e2846-2254-4f94-b05a-a5f5b76d3418)
